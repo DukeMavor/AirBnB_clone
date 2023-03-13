@@ -265,14 +265,14 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Gilbmet</summary>
     <ul>
-    <li><a href="https://www.github.com/Gilbmet">Github</a></li>
-    <li><a href="gilbmet254@gmail.com@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/DukeMavor">Github</a></li>
+    <li><a href="victor.awunudo@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
     <summary>Kennedy Maganjoken</summary>
     <ul>
-    <li><a href="https://www.github.com/Maganjoken">Github</a></li>
+    <li><a href="https://www.github.com/Relativeman">Github</a></li>
     <li><a href="kenniesons@gmail.com">e-mail</a></li>
     </ul>
 </details>
